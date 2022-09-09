@@ -11,7 +11,8 @@ Using:
 2. Выберите путь к игре и выберите exe файл игры
 3. Подождите запуска игры
 
-                      Features
+ Features
+ ---------
 - Aim (archer and mage)
 - God Mode
 - Multi-Hit
